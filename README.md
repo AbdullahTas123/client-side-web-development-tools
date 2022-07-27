@@ -5,4 +5,4 @@ Click to see completed project on [Netlify](https://unrivaled-stardust-7c7bb7.ne
 
 
 ## An image from the project
-![space image](./src/img/space_for_readme.jpg "Space").
+![space image](./src/img/space_for_readme.jpg "Space")
